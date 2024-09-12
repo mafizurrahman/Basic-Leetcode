@@ -1,0 +1,10 @@
+COLUMN Names
+John
+Mary
+COLUMN Addresses
+123 Main St
+456 Oak St
+COLUMN Credit
+500
+700
+END
